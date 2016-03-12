@@ -1,0 +1,26 @@
+{
+  "name": "mrrge-stack",
+  "version": "1.0.0",
+  "description": "MongoDb,React,Relay,Graphql,Express Stack boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadEl-Banna/mrrge-stack.git"
+  },
+  "keywords": [
+    "MongoDb",
+    "React",
+    "Relay",
+    "Graphql",
+    "Express"
+  ],
+  "author": "AhmadEl-Banna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmadEl-Banna/mrrge-stack/issues"
+  },
+  "homepage": "https://github.com/AhmadEl-Banna/mrrge-stack#readme"
+}
