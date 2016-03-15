@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/AhmadEl-Banna/mrrge-stack/issues"
   },
-  "homepage": "https://github.com/AhmadEl-Banna/mrrge-stack#readme"
+  "homepage": "https://github.com/AhmadEl-Banna/mrrge-stack#readme",
+  "dependencies": {
+    "react-native": "^0.21.0"
+  }
 }
