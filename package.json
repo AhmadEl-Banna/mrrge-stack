@@ -1,0 +1,47 @@
+{
+  "name": "mrrge-stack",
+  "version": "1.0.0",
+  "description": "MongoDb,React,Relay,Graphql,Express Stack boilerplate",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmadEl-Banna/mrrge-stack.git"
+  },
+  "scripts": {
+    "start": "BABEL_ENV=server ./node_modules/.bin/babel-node ./server.js",
+    "update-schema": "./node_modules/.bin/babel-node ./scripts/updateSchema.js"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.6.0",
+    "babel-relay-plugin": "^0.7.3",
+    "express": "4.13.4",
+    "express-graphql": "0.4.10",
+    "graphql": "0.4.18",
+    "graphql-relay": "0.3.6",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-native": "^0.22.0-rc",
+    "react-native-device-info": "^0.8.4",
+    "react-native-listitem": "1.0.5",
+    "react-native-swipeout": "2.0.12",
+    "react-relay": "^0.7.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.7.2",
+    "babel-eslint": "^5.0.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-react-native": "^1.5.2",
+    "babel-preset-stage-0": "^6.5.0",
+    "eslint": "^2.4.0",
+    "eslint-plugin-react": "^4.2.3",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "engines": {
+    "npm": ">=3"
+  }
+}

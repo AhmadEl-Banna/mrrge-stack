@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ahmadelbanna/mrrge-stack/android/app/build/intermediates/exploded-aar/TodoMVC/RNDeviceInfo/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="108fb829d21ab927ca6c99264d445fc597431879">
+        <dex dex="/Users/ahmadelbanna/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-9142b2356e6c017171b0e268da9f8bfe9bf0f51e.jar" />
+    </item>
+
+</items>
