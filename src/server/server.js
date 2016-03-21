@@ -12,7 +12,7 @@
 
 import express from 'express';
 import graphQLHTTP from 'express-graphql';
-import {schema} from './data/schema';
+import {schema} from '../data/schema';
 
 const GRAPHQL_PORT = 3001;
 

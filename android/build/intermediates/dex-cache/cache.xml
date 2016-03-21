@@ -2,11 +2,165 @@
 <items version="2" >
 
     <item
-        jar="/Users/ahmadelbanna/mrrge-stack/android/app/build/intermediates/exploded-aar/TodoMVC/RNDeviceInfo/unspecified/jars/classes.jar"
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="108fb829d21ab927ca6c99264d445fc597431879">
-        <dex dex="/Users/ahmadelbanna/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-9142b2356e6c017171b0e268da9f8bfe9bf0f51e.jar" />
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-499a4a0bf52821ac2fbc877917a51eb3547bab36.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-a3aa3e9be65940e61496632f535006240b698546.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-41f6010dd7b163d8e9a0e031f77d93ed61e7f7aa.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-7fa6ec0dd47ff69e170994101528eab6afaeecee.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-c4c6cb42e4ddb3eec6eaa27ed338da0570bb8c85.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-f25c945c78b7535ffb05bc90993afd96968b63b3.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-4a5eeb2791a9d30127cbc8a274f740905763638e.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-df4ed100e72424b9d38ea87b3da503d5c5c9a19b.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-d922d395a8ce4dbb6a31cfed8d3568126c0d7bbb.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53ac919b9f285f1f7a99804796ec20b7716de23e">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-504318fb6f6f01b1005cfebeedca39d5d5f9864c.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58441b60087bf9e33f7b0ff3afa71f46490f1934">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-f4d5258dad98e18bddc2403100a6eac7058f9fcc.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-4627f4ab9e2ba15cecaa55e7029e883650017b9f.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/TodoMVC/RNDeviceInfo/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69dbcd348f2e8a0704a0871709a6d23cafb70b77">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-090840055c6845636f0cf704b541f8853a5f3538.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-f1a764f38809e12a6868be8f58ccae35016903fe.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-93f278c1e49564cdf7c4dccc482e95e20a381a70.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-afe399d63c49708ba4b62c098a771bcc4b6d2b13.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-0f9b1203696beb97df04045e10e2c8a21ea75907.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-a7e9ab9e921fab84452e3a5246b03b0b84e7a554.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-75992e1cead8afa40ffb44e9d2f1efdb7fbb894b.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-318705407e0ac504e44ce0484c7a29daca703fa0.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-1e85eb66bb6c37947c82014f681710c021b33eea.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/classes-1881a840db966efec3895593ae974088b88ae285.jar" />
+    </item>
+    <item
+        jar="/Users/ahmadelbanna/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/ahmadelbanna/Desktop/mrrge-stack/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-b864e2914c980bd78ca6172a81d96fbe8c3dd34d.jar" />
     </item>
 
 </items>
